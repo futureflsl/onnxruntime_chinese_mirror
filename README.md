@@ -1,6 +1,7 @@
 这个是onnxruntime官方发行的预编译包，主要是windows和linux安装包，下载前需要注意以下问题：
 
-第一：如果您是下载GPU版本即cuda版本需要提前去https://blog.csdn.net/FL1623863129/article/details/127887083对应onnxruntime和cuda对应版本，以确保下载安装包符合自己的cuda版本
+第一：如果您是下载GPU版本即cuda版本需要提前去https://blog.csdn.net/FL1623863129/article/details/127887083
+对应onnxruntime和cuda对应版本，以确保下载安装包符合自己的cuda版本
 
 第二：
 onnxruntime-win-x86表示windows x86系统使用onnxruntime C++库，您可以在x64系统使用这个32位库
@@ -11,7 +12,7 @@ onnxruntime-win-x64表示windows x64系统使用cpu版本onnxruntime C++库，�
 
 onnxruntime-linux-x64-gpu-cuda12表示linux x64系统使用gpu版本onnxruntime C++库，只支持cuda12版本，对应cuda版本需要查询
 
-onnxruntime-linux-x64-gpu表示linux x64系统使用gpu版本onnxruntime C++库，只支持cuda11版本，对应cuda版本需要查询
+onnxruntime-linux-x64-gpu表示linux x64系统使用gpu版本onnxruntime C++库，对应cuda版本需要查询
 
 onnxruntime-linux-x64表示linux x64系统使用cpu版本onnxruntime C++库，只支持cpu推理
 
