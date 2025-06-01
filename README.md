@@ -16,7 +16,7 @@ onnxruntime-linux-x64-gpu表示linux x64系统使用gpu版本onnxruntime C++库�
 
 onnxruntime-linux-x64表示linux x64系统使用cpu版本onnxruntime C++库，只支持cpu推理
 
-以下是汇总： 
+以下是汇总<br>： 
 onnxruntime-1.22.0版本下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
