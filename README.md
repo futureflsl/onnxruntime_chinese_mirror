@@ -17,6 +17,36 @@ onnxruntime-linux-x64-gpu表示linux x64系统使用gpu版本onnxruntime C++库�
 onnxruntime-linux-x64表示linux x64系统使用cpu版本onnxruntime C++库，只支持cpu推理
 
 以下是汇总： <br>
+onnxruntime-1.23.2版本下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>onnxruntime-win-x64-gpu-1.23.2.7z</td><td><a href="https://mbd.pub/o/bread/YZWYmpxwag==">下载</a></td></tr>
+<tr><td>onnxruntime-win-x64-1.23.2.zip</td><td><a href="https://mbd.pub/o/bread/YZWYmpxwbQ==">下载</a></td></tr>
+<tr><td>onnxruntime-linux-x64-gpu-1.23.2.tgz</td><td><a href="https://mbd.pub/o/bread/YZWYmpxwZw==">下载</a></td></tr>
+<tr><td>onnxruntime-linux-x64-1.23.2.tgz</td><td><a href="https://mbd.pub/o/bread/YZWYmpxxZg==">下载</a></td></tr>
+</tbody>
+</table>
+onnxruntime-1.23.1版本下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>onnxruntime-win-x64-gpu-1.23.1.7z</td><td><a href="https://mbd.pub/o/bread/YZWYmpxwaQ==">下载</a></td></tr>
+<tr><td>onnxruntime-win-x64-1.23.1.zip</td><td><a href="https://mbd.pub/o/bread/YZWYmpxwbA==">下载</a></td></tr>
+<tr><td>onnxruntime-linux-x64-gpu-1.23.1.tgz</td><td><a href="https://mbd.pub/o/bread/YZWYmpxwZg==">下载</a></td></tr>
+<tr><td>onnxruntime-linux-x64-1.23.1.tgz</td><td><a href="https://mbd.pub/o/bread/YZWYmpxxZQ==">下载</a></td></tr>
+</tbody>
+</table>
+onnxruntime-1.23.0版本下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>onnxruntime-win-x64-gpu-1.23.0.7z</td><td><a href="https://mbd.pub/o/bread/YZWYmpxwaA==">下载</a></td></tr>
+<tr><td>onnxruntime-win-x64-1.23.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWYmpxwaw==">下载</a></td></tr>
+<tr><td>onnxruntime-linux-x64-gpu-1.23.0.tgz</td><td><a href="https://mbd.pub/o/bread/YZWYmpxxZw==">下载</a></td></tr>
+<tr><td>onnxruntime-linux-x64-1.23.0.tgz</td><td><a href="https://mbd.pub/o/bread/YZWYmpxxZA==">下载</a></td></tr>
+</tbody>
+</table>
 onnxruntime-1.22.1版本下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
