@@ -33,6 +33,5 @@
 <tr><td>[C++onnxruntime静态库]onnxruntime-win-x86-static_lib-1.16.2</td><td><a href="https://mbd.pub/o/bread/YZWZl5htZg==">下载</a></td></tr>
 <tr><td>[C++onnxruntime静态库]onnxruntime-win-x86-static_lib-1.16.1</td><td><a href="https://mbd.pub/o/bread/YZWZl5htZw==">下载</a></td></tr>
 <tr><td>[C++onnxruntime静态库]onnxruntime-win-x86-static_lib-1.16.0</td><td><a href="https://mbd.pub/o/bread/YZWZl5htZA==">下载</a></td></tr>
-<tr><td>torchvision-0.24.0+cu130-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWZlJpuaQ==">下载</a></td></tr>
 </tbody>
 </table>
