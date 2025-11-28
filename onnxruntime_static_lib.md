@@ -1,3 +1,4 @@
+注意这个是onnxruntime静态库文件，只包含头文件和对应lib文件，静态库文件是没有dll文件的，只提供windows上CPU版本的onnxruntime的C++库，其他版本暂时不提供。
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
